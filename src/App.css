@@ -6,3 +6,15 @@
     display: flex;
     justify-content: space-between;
 }
+.checkbox-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    border: 3px solid black;
+}
+.teacher{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
